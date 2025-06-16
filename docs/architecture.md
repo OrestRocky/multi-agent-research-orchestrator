@@ -25,3 +25,11 @@ Memory
 - **Memory**: Stores and retrieves intermediate or long-term data.
 
 Designed for research automation, modularity, and explainability.
+
+## Example Scenario
+
+> Research topic: "Impact of AI on Human Rights"
+System will:
+- Collect references (e.g. UN reports, Stanford articles)
+- Extract core concerns (bias, surveillance, fairness)
+- Summarize into report format
