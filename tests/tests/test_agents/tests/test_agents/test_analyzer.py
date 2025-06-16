@@ -9,3 +9,8 @@ class TestAnalyzerAgent(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+    
+def test_empty_input(self):
+    agent = AnalyzerAgent()
+    result = agent.analyze("")
+    self.assertIsInstance(result, str)
